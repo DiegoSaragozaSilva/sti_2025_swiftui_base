@@ -26,7 +26,7 @@ Siga os passos abaixo para rodar o aplicativo em seu ambiente local:
 Clone o repositório:
 
 ``` Bash
-git clone https://github.com/DiegoSaragozaSilva/sti_2025_swiftui.git
+git clone https://github.com/DiegoSaragozaSilva/sti_2025_swiftui_base.git
 ```
 Abra o projeto no Xcode:
 
