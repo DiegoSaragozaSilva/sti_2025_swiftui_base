@@ -2,7 +2,7 @@
 Este repositório contém o código-fonte base da atividade de desenvolvimento iOS com SwiftUI, realizada durante a Semana de Tecnologia e Informação (STI) de 2025.
 
 ## 📝 Descrição do Projeto
-O objetivo deste projeto é servir como base para os participantes da oficina/atividade. Aqui, você encontrará a implementação parcial da solução proposta. Sinta-se à vontade para explorar o código, comparar com sua própria solução e usar como material de estudo.
+O objetivo deste projeto é servir como base para os participantes da oficina/atividade. Aqui, você encontrará a implementação parcial da solução proposta.
 
 ## 🛠️ Tecnologias Utilizadas
 **Linguagem**: Swift
